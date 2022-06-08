@@ -49,7 +49,7 @@ nav a { text-decoration: none;
         background-color: #595959;
         border-bottom: 1px solid #ffffff; }
    
-nav a:link { color: #F; }
+nav a:link { color: #FFFFFF; }
 nav a:visited { color: #FFF5EE; }
 nav a:hover { color: #FFF5EE;
               background-color: #191919; }
